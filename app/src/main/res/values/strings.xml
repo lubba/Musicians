@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Musicians</string>
     <string name="content_format" formatted="false">%d albums, %d songs</string>
+    <string name="photo">photo</string>
 </resources>
